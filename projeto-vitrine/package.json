@@ -1,0 +1,12 @@
+{
+  "name": "projeto-vitrine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "node --check src/tasks.js",
+    "test": "vitest run",
+    "build": "echo 'Build do frontend React aqui (ex.: vite build)'"
+  },
+  "devDependencies": { "vitest": "^2.1.0" }
+}
