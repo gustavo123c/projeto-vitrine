@@ -40,4 +40,4 @@ npm ci && npm test
 Veja [docs/DECISOES.md](docs/DECISOES.md).
 
 ## Contato
-SEU NOME · seu@email.com · [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)
+Gustavo Cavalcanti de Melo Costa · gustavocavalcantimc@gmail.com · 
